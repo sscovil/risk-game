@@ -1,4 +1,10 @@
 {
+  "knex": {
+    "client": "pg",
+    "connection": {
+      "database": "risk-game"
+    }
+  },
   "server": {
     "port": 8080
   }
