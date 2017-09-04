@@ -28,7 +28,7 @@ To conquer the world by occupying every territory on the board, thus eliminating
 
 ## Setup
 
-Unlike most games, RISK demands careful planning before you actually start to play. This Initial Army Placement sets the stage for the battles you’ll fight later on.
+Unlike most games, RISK demands careful planning before you actually start to play. This Initial Army Placement sets the stage for the battles you'll fight later on.
 
 ### Initial Army Placement
 
@@ -47,7 +47,7 @@ After all 42 territories are claimed, each player in turn places one additional 
 
 ## Playing
 
-On your turn, try to capture territories by defeating your opponents’ armies. But be careful: Winning battles will depend on careful planning, quick decisions, and bold moves. You’ll have to place your forces wisely, attack at just the right time and fortify your defenses against all enemies.
+On your turn, try to capture territories by defeating your opponents' armies. But be careful: Winning battles will depend on careful planning, quick decisions, and bold moves. You'll have to place your forces wisely, attack at just the right time and fortify your defenses against all enemies.
 
 **Each of your turns consists of three steps, in this order:**
 
@@ -78,7 +78,7 @@ You will always receive at least 3 armies on a turn, even if you occupy fewer th
 
 #### Continents
 
-In addition, at the beginning of your turn you will receive armies for each continent you control. (To control a continent, you must occupy all its territories at the start of your turn.) To find the exact number of armies you’ll receive for each continent, look at the chart in the lower left-hand corner of the game board.
+In addition, at the beginning of your turn you will receive armies for each continent you control. (To control a continent, you must occupy all its territories at the start of your turn.) To find the exact number of armies you'll receive for each continent, look at the chart in the lower left-hand corner of the game board.
 
 #### Earning Cards
 
@@ -103,7 +103,7 @@ At the beginning of subsequent turns, you may trade in matched sets of cards and
 
 After the sixth set has been traded in, each additional set is worth 5 more armies.
 
-Example: If you trade in the seventh set, you get 20 armies; if you trade in the eighth, you get 25 armies, and so on. “First” and “second” set, etc., refer to sets traded in by anyone during the game. Thus, if you trade in the third set in the game, you receive 8 armies, even if it’s the first set you have traded in.
+Example: If you trade in the seventh set, you get 20 armies; if you trade in the eighth, you get 25 armies, and so on. "First" and "second" set, etc., refer to sets traded in by anyone during the game. Thus, if you trade in the third set in the game, you receive 8 armies, even if it's the first set you have traded in.
 
 ##### Occupied Territories
 
@@ -136,18 +136,18 @@ Tip: The more dice you roll, the greater your odds of winning. Yet the more dice
 
 #### To Decide a Battle
 
-The highest die each combatant rolled is compared. If yours (the attacker’s) is higher, the defender loses one army from the territory under attack. But if the defender’s die is higher, you lose one army from the territory you attacked from. If each of you rolled more than one die, the two next-highest dice are compared in the same way.
+The highest die each combatant rolled is compared. If yours (the attacker's) is higher, the defender loses one army from the territory under attack. But if the defender's die is higher, you lose one army from the territory you attacked from. If each of you rolled more than one die, the two next-highest dice are compared in the same way.
 
 * In the event of a tie, the defender always wins.
 * The attacker can never lose more than 2 armies on a single roll.
 
 #### Capturing Territories
 
-As soon as you defeat the last opposing army on a territory, you capture that territory and must occupy it immediately. To do so, move in at least as many armies as the number of dice you rolled in your last battle. Remember: In most cases, moving as many armies as you can to the front is advantageous, because armies left behind can’t help you when you are attacking. Also remember you must always leave at least one army behind on the territory you attacked from. During the game, every territory must always be occupied by at least one army.
+As soon as you defeat the last opposing army on a territory, you capture that territory and must occupy it immediately. To do so, move in at least as many armies as the number of dice you rolled in your last battle. Remember: In most cases, moving as many armies as you can to the front is advantageous, because armies left behind can't help you when you are attacking. Also remember you must always leave at least one army behind on the territory you attacked from. During the game, every territory must always be occupied by at least one army.
 
 #### Ending Your Attack
 
-You may end your attack(s) at any time. If you have captured at least one territory, you will be awarded a RISK card. (No matter how many territories you’ve captured on your turn, you will only receive one RISK card.) Your last step is to fortify your position, if you wish (see below).
+You may end your attack(s) at any time. If you have captured at least one territory, you will be awarded a RISK card. (No matter how many territories you've captured on your turn, you will only receive one RISK card.) Your last step is to fortify your position, if you wish (see below).
 
 #### Eliminating An Opponent
 
@@ -159,9 +159,9 @@ If during your turn you eliminate an opponent by defeating his or her last army 
 
 ### Fortifying Your Position
 
-No matter what you’ve done on your turn, you may, if you wish, end your turn by fortifying your position. You are not required to win a battle or even to try an attack to do so. Some players refer to this as the “free move.”
+No matter what you've done on your turn, you may, if you wish, end your turn by fortifying your position. You are not required to win a battle or even to try an attack to do so. Some players refer to this as the "free move."
 
-To fortify your position, move as many armies as you’d like from one (and only one) of your territories into one (and only one) of your adjacent territories. Remember to move troops towards borders where they can help in an attack!
+To fortify your position, move as many armies as you'd like from one (and only one) of your territories into one (and only one) of your adjacent territories. Remember to move troops towards borders where they can help in an attack!
 
 In moving your armies from one territory to another, you must leave at least one army behind.
 
