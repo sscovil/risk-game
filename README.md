@@ -20,6 +20,6 @@ Next, run:
 $ PORT=8080 npm start
 ```
 
-This will start the server, which is listening on whichever port you specify (default is **8080**).
+This will start the server, which is listening on the port you specify (default is **8080**).
 
-Navigate to http://localhost:8080 (or whatever port you choose) to play the game.
+Navigate to http://localhost:8080 (or the port you specify) to play the game.
