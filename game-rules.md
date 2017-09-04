@@ -20,7 +20,7 @@ The game board is a map of 6 continents divided into 42 territories. Each contin
 
 ### RISK Cards
 
-There are 42 RISK cards, each marked with the name of a territory and one of three icons: ⚒, ⚓, and ⚔. In addition, there are 2 wildcards marked with all three icons, but no territory.
+There are 42 RISK cards, each marked with the name of a territory and one of three icons: ⚒ ⚓ ⚔ . In addition, there are 2 wildcards marked with all three icons, but no territory.
 
 ## Object of the Game
 
@@ -84,7 +84,7 @@ In addition, at the beginning of your turn you will receive armies for each cont
 
 At the end of any turn in which you have captured at least one territory, you will earn one (and only one) RISK card. You are trying to collect sets of 3 cards in any of the following combinations:
 
-- 3 cards with the same icon (⚒, ⚓, or ⚔)
+- 3 cards with the same icon ( ⚒ ⚓ or ⚔ )
 - 1 each of all three 3 icons
 - 2 different icons plus a wildcard
 
