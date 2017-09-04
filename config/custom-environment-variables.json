@@ -1,0 +1,10 @@
+{
+  "knex": {
+    "connection": {
+      "database": "DB_NAME"
+    }
+  },
+  "server": {
+    "port": "PORT"
+  }
+}
